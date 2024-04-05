@@ -1,0 +1,4 @@
+{
+  "baseUrl": "http://localhost:3000/app",
+  "persistEncryptSecretKey": "4KGAS642HKLxa"
+}

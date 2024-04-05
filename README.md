@@ -1,1 +1,1 @@
-# polygon-drawing-react
+# Draw Polygon with React

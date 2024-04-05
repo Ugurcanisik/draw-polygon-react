@@ -1,0 +1,79 @@
+{
+  "name": "draw-polygon-react",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@mantine/carousel": "^6.0.20",
+    "@mantine/core": "^6.0.20",
+    "@mantine/dates": "^6.0.21",
+    "@mantine/dropzone": "^6.0.20",
+    "@mantine/ds": "^6.0.20",
+    "@mantine/form": "^6.0.20",
+    "@mantine/hooks": "^6.0.20",
+    "@mantine/modals": "^6.0.20",
+    "@mantine/notifications": "^6.0.20",
+    "@mantine/nprogress": "^6.0.20",
+    "@mantine/spotlight": "^6.0.20",
+    "@mantine/tiptap": "^6.0.20",
+    "@react-pdf/renderer": "^3.1.15",
+    "@reduxjs/toolkit": "^1.8.5",
+    "@tabler/icons": "^1.117.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.1.3",
+    "cross-env": "7.0.3",
+    "dotenv": "^16.0.2",
+    "embla-carousel-react": "^7.0.1",
+    "framer-motion": "^7.3.5",
+    "joi": "^17.6.0",
+    "leaflet": "^1.9.4",
+    "lodash": "^4.17.21",
+    "react": "^18.2.0",
+    "react-data-table-component": "^7.5.3",
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0",
+    "react-leaflet": "^4.2.1",
+    "react-leaflet-draw": "^0.20.4",
+    "react-redux": "^8.0.2",
+    "react-router-dom": "^6.3.0",
+    "redux": "^4.2.0",
+    "redux-logger": "^3.0.6",
+    "redux-persist": "^6.0.0",
+    "redux-persist-transform-encrypt": "^4.0.0",
+    "redux-thunk": "^2.4.1"
+  },
+  "scripts": {
+    "start": "cross-env vite",
+    "start:prod": "cross-env vite",
+    "build": "cross-env vite build",
+    "lint": "eslint .",
+    "lint:fix": "eslint --fix ."
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/core": "7.20.5",
+    "@babel/eslint-parser": "7.19.1",
+    "@babel/preset-react": "7.18.6",
+    "@rollup/plugin-alias": "4.0.2",
+    "@vitejs/plugin-react": "3.0.0",
+    "eslint": "8.32.0",
+    "eslint-import-resolver-custom-alias": "1.3.0",
+    "eslint-plugin-react": "7.33.2",
+    "eslint-plugin-react-hooks": "4.6.0",
+    "sass": "^1.69.7",
+    "vite": "4.5.2"
+  }
+}
